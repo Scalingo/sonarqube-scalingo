@@ -1,0 +1,16 @@
+{
+  "name": "SonarQube",
+  "description": "SonarQube is a tool to help you improve the ode quality and security",
+  "repository": "https://github.com/Scalingo/scalingo-sonarqube",
+  "logo": "https://docs.sonarqube.org/latest/images/SonarQubeIcon.svg",
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "2XL"
+    }
+  },
+  "addons": [{
+    "plan": "postgresql:postgresql-starter-512"
+  }]
+}
+
