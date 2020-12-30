@@ -1,6 +1,6 @@
 {
   "name": "SonarQube",
-  "description": "SonarQube is a tool to help you improve the ode quality and security",
+  "description": "SonarQube is a tool to help you improve the code quality and security",
   "repository": "https://github.com/Scalingo/scalingo-sonarqube",
   "logo": "https://docs.sonarqube.org/latest/images/SonarQubeIcon.svg",
   "formation": {
