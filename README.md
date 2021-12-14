@@ -12,6 +12,6 @@ You may want to install a SonarQube plugin. In such situation, fork this reposit
 
 # Update
 
-To upgrade to the latest version you only need to redeploy it, this will retrieve the latest version avaible on [the Sonarqube buildpack](https://github.com/Scalingo/sonarqube-buildpack/).
+To upgrade to the latest version you only need to redeploy it, this will retrieve the latest version avaible on [our Sonarqube buildpack](https://github.com/Scalingo/sonarqube-buildpack/).
 
 `scalingo -a  my-app deploy https://github.com/Scalingo/sonarqube-scalingo/archive/refs/heads/master.tar.gz`
